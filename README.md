@@ -1,2 +1,105 @@
-# Gods-Game
-这是我们TKCB乐队开发的，面向所有互联网用户的Gods系列游戏，全部都是免费的，旨在让大家在忙碌的生活、工作，可以开心一刻。   这是Gods系列游戏的官网：game.tkcb.cc
+# Gods Game（神的游戏）
+
+
+### 介绍
+这是我们TKCB乐队开发的，面向所有互联网用户的Gods系列游戏，全部都是免费的，旨在让大家在忙碌的生活、工作，可以开心一刻。 
+
+这是Gods系列游戏的官网：game.tkcb.cc
+　
+
+
+### 致良知，永免费
+我们相信，我们来到这个世界，不是为了赚钱，娱乐、享受的，不应该被欲望驱使着过着空洞而无聊的人生，人生应该是来做事的。
+
+儒家的做事理念：无所为而为。
+
+道家的做事理念：无为而无不为。
+
+佛家的做事理念：无心而为。
+
+而我信仰的仙道，也有自己的做事理念：为而不为。
+　
+
+
+### 百度网盘
+King系列软件 
+
+https://pan.baidu.com/s/5k6r1Eo3oXzaFAazkAIJBtA 
+
+Gods系列游戏 
+
+https://pan.baidu.com/s/5i9SWC2u1aXf4pixhMLG8mA 
+　
+
+
+### 夸克网盘
+King系列软件 
+
+https://pan.quark.cn/s/5634f0a03829?pwd=eSaM 
+
+Gods系列游戏 
+
+https://pan.quark.cn/s/0533e96d7d45?pwd=ePnM 
+　
+
+
+### 阿里云网盘
+（阿里云文件审查机制很严格，有时候会出现部分文件无法分享的情况）
+
+（故而最好是以百度或者夸克网盘为主）
+
+（当然更好的是，三个网盘文件都下载，然后用著名的文件对比工具“Beyond Compare”进行比对）
+
+King系列软件 
+
+https://www.alipan.com/s/sQpSk9cfyTa（提取码: ck14） 
+
+Gods系列游戏 
+
+https://www.alipan.com/s/u2d3LTBPsop（提取码: r84a）
+　
+
+
+### Gitee 项目
+
+King Soft（王的软件）
+
+由于gitee存放大小有限制，故而仍然将软件存储在三大网盘。
+
+https://gitee.com/TKCB/King-Soft
+
+
+Gods Game（神的游戏）
+https://gitee.com/TKCB/Gods-Game
+　
+
+
+### Github 项目
+
+King Soft（王的软件）
+
+由于github存放大小有限制，故而仍然将软件存储在三大网盘。
+
+https://github.com/TKCB/King-Soft
+
+
+Gods Game（神的游戏）
+https://github.com/TKCB/Gods-Game
+　
+
+
+### 三大网盘内容一致
+为了更好地分享，而某个网盘失效或者文件被屏蔽等情况。
+
+故而使用了三个网盘进行分享。
+
+谢谢理解……
+　
+
+
+### 最后的祝福
+祝愿大家学习愉快，工作开心、生活如意，遇到挫折苦难逆境也要勇敢向前走……
+
+真诚的希望我们的软件和游戏，帮助到了大家，也感谢您的使用……
+
+但愿我们都可以做一个改变世界的人，也不要被世界改变。
