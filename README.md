@@ -1,14 +1,14 @@
 # Gods Game（神的游戏）
 
 
-### 介绍
+## 介绍
 这是我们TKCB乐队开发的，面向所有互联网用户的Gods系列游戏，全部都是免费的，旨在让大家在忙碌的生活、工作，可以开心一刻。 
 
 这是Gods系列游戏的官网：game.tkcb.cc
 　
 
 
-### 致良知，永免费
+## 致良知，永免费
 我们相信，我们来到这个世界，不是为了赚钱，娱乐、享受的，不应该被欲望驱使着过着空洞而无聊的人生，人生应该是来做事的。
 
 儒家的做事理念：无所为而为。
@@ -23,7 +23,7 @@
 
 
 
-### 百度网盘
+## 百度网盘
 King系列软件 
 
 https://pan.baidu.com/s/5k6r1Eo3oXzaFAazkAIJBtA 
@@ -34,7 +34,7 @@ https://pan.baidu.com/s/5i9SWC2u1aXf4pixhMLG8mA
 　
 
 
-### 夸克网盘
+## 夸克网盘
 King系列软件 
 
 https://pan.quark.cn/s/5634f0a03829?pwd=eSaM 
@@ -45,7 +45,7 @@ https://pan.quark.cn/s/0533e96d7d45?pwd=ePnM
 　
 
 
-### 阿里云网盘
+## 阿里云网盘
 （阿里云文件审查机制很严格，有时候会出现部分文件无法分享的情况）
 
 （故而最好是以百度或者夸克网盘为主）
@@ -62,7 +62,7 @@ https://www.alipan.com/s/u2d3LTBPsop（提取码: r84a ）
 
 
 
-### Gitee 项目
+## Gitee 项目
 King Soft（王的软件）
 
 在“发行版”（项目简介下面），里面有所有发布的软件
@@ -77,7 +77,7 @@ Gods Game（神的游戏）
 https://gitee.com/TKCB/Gods-Game
 
 
-### Github 项目
+## Github 项目
 King Soft（王的软件）
 
 在“Releases”（项目About下面），里面有所有发布的软件
@@ -92,7 +92,7 @@ Gods Game（神的游戏）
 https://github.com/TKCB/Gods-Game
 
 
-### 3大网盘和Git的内容一致
+## 3大网盘和Git的内容一致
 为了更好地分享，而某个网盘失效或者文件被屏蔽等情况。
 
 故而使用了3个网盘，和两个Git进行分享，理论上6份是同步的，但如果有个别不一致，敬请理解……
@@ -100,7 +100,7 @@ https://github.com/TKCB/Gods-Game
 谢谢理解……
 
 
-### 最后的祝福
+## 最后的祝福
 祝愿大家学习愉快，工作开心、生活如意，遇到挫折苦难逆境也要勇敢向前走……
 
 真诚的希望我们的软件和游戏，帮助到了大家，也感谢您的使用……
@@ -108,5 +108,41 @@ https://github.com/TKCB/Gods-Game
 但愿我们都可以做一个改变世界的人，也不要被世界改变。
 
 
-### 许可证
+## 关于我们
+大家好，我是TKCB-Gm。
+
+一个有着游戏策划梦，却成为程序猿的游乐家，我的游戏职业是游吟诗人。
+
+我来自TKCB乐队，我是乐队队长，也是目前乐队的唯一成员，兵在于精而不是多，故而一直没有找到合适的乐队新成员。
+
+有没有想交个朋友呢？我愿结交天下朋友，不论中外古今！
+
+下面是我的一些信息，有事请联系，乐队的事情也请和我联系：
+
+E-mail ：tkcb@qq.com
+
+微 信 号：TKCB-Gm
+
+QQ号码：2414268040 （TKCB-Gm）
+
+QQ空间：[http://2414268040.qzone.qq.com](http://2414268040.qzone.qq.com)
+
+QQ群①：96759336 （Flash 闪侠）
+
+QQ群②：463560360 （King系列软件官方群）
+
+QQ群③：1007108140 （Gods系列游戏官方群）
+
+乐队网站：[www.tkcb.cc ](http://www.tkcb.cc) （TKCB乐队）
+
+旧技术论坛：[www.11ria.com](http://www.11ria.com) （11RIA 闪客社区，即将关闭）
+
+新技术网站：[www.theflash.cc](http://www.theflash.cc) （The Flash，闪侠，新的论坛，即将重建）
+
+King系列软件官网：[king.tkcb.cc](http://king.tkcb.cc) （King Soft，王的软件）
+
+Gods系列游戏官网：[game.tkcb.cc](http://game.tkcb.cc) （Gods Game，神的游戏）
+
+
+## 许可证
 [使用许可证](https://github.com/TKCB/Gods-Game/blob/main/LICENSE)
